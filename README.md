@@ -5,7 +5,7 @@ This repository contains the renderer submitted to [rtcamp11](https://sites.goog
 ## Submission
 [[Video](submission/video.mp4)] [[Slides](submission/alpine.pdf)]
 - CPU
-- Resolution: 728x728
+- Resolution: 768x768
 - Samples: 64
 - FPS: 24
 - Duration: 10s
